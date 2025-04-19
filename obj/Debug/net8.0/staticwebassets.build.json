@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "yPAv0GpT7eW3jsGLkb6cdXVpyZ+3WVdvJ3wD1fA3JTg=",
+  "Source": "SecureFileSharingApp",
+  "BasePath": "_content/SecureFileSharingApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
